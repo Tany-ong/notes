@@ -7,8 +7,6 @@ $ git add .
 
 $ git commit -m "注释描述"
 
-$ git branch -M master
-
 $ git remote add origin https://github.com/Tany-ong/notes.git
 
 $ git push -u master
