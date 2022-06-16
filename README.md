@@ -9,4 +9,4 @@ $ git commit -m "注释描述"
 
 $ git remote add origin https://github.com/Tany-ong/notes.git
 
-$ git push -u master
+$ git push origin -u master
