@@ -1,5 +1,9 @@
 ##### IDEA关闭参数提示
 File ==> Settings ==> Editor ==> Inlay Hints ==> Parameter names
+
+##### git config --global user.name "xxx"
+##### git config --global user.email "xxx"
+##### git config --list
 ##### 本地项目上传至GitHub
 $ git init
 
